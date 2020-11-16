@@ -1,0 +1,3 @@
+﻿23/07/2020 14:30:49         --------   Succesfully Reads the Data From Configuration File and Stored into Defined Variables   
+
+23/07/2020 14:30:49         --------   Succesfully Created Directories and Required Files In Project Folder    
